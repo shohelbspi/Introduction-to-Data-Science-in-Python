@@ -1,0 +1,9 @@
+area,bedrooms,age,price,type,Class
+2600,3,20,550000,city,exotic
+3000,4,15,595000,city,normal
+3200,4,18,510000,village,exotic
+3600,3,30,495000,village,normal
+4000,5,8,760000,village,premium
+4100,6,8,810000,city,premium
+4100,6,10,510000,village,normal
+3200,4,18,510000,city,normal
